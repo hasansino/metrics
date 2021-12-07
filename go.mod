@@ -1,4 +1,4 @@
-module github.com/trafficstars/metrics
+module github.com/hasansino/metrics
 
 go 1.16
 
