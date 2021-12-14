@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/trafficstars/metrics"
+	"github.com/hasansino/metrics"
 )
 
 func main() {

@@ -386,7 +386,7 @@ func (v *AggregativeValue) String() string {
 }
 
 // MarshalJSON is a JSON marshalizer for an aggregative metric to be exported as JSON (for example
-// using https://godoc.org/github.com/trafficstars/statuspage)
+// using https://godoc.org/github.com/hasansino/statuspage)
 func (metric *commonAggregative) MarshalJSON() ([]byte, error) {
 	var jsonValues []string
 
